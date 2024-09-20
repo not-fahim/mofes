@@ -5,4 +5,4 @@ Here is what the final setup looks like:
 [![Watch the video](https://github.com/not-fahim/mofes/blob/master/Final%20setup.jpg)](https://github.com/not-fahim/mofes/blob/master/Working.gif)
 
 Here is a video of the machine working:
-https://github.com/not-fahim/mofes/blob/master/working.gif
+[![Watch the video](https://github.com/not-fahim/mofes/blob/master/working.gif)](https://github.com/not-fahim/mofes/blob/master/Working.gif)
