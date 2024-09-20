@@ -2,7 +2,7 @@ This is a group design project completed as part of my junior year coursework fo
 An arduino based microcontroller was used to automate the machine. All the parts were assembled by hand in the mechanical workshop of the University of Dhaka.
 
 Here is what the final setup looks like:
-[![Watch the video](https://github.com/not-fahim/mofes/blob/master/Final%20setup.jpg)](https://github.com/not-fahim/mofes/blob/master/Working.gif)
+[![photo](https://github.com/not-fahim/mofes/blob/master/Final%20setup.jpg)](https://github.com/not-fahim/mofes/blob/master/Working.gif)
 
 Here is a video of the machine working:
-[![Watch the video](https://github.com/not-fahim/mofes/blob/master/working.gif)](https://github.com/not-fahim/mofes/blob/master/Working.gif)
+[![video](https://github.com/not-fahim/mofes/blob/master/working.gif)](https://github.com/not-fahim/mofes/blob/master/Working.gif)
